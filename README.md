@@ -7,7 +7,7 @@
 
 <br/>
 
-![B.Tech](https://img.shields.io/badge/B.Tech-Artificial&Intelligence&and&Data&Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![B.Tech](https://img.shields.io/badge/B.Tech-ArtificialIntelligence&DataScience-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/based%20in-Coimbatore-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
