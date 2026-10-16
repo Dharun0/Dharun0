@@ -27,15 +27,15 @@
 
 ---
 
-## ðŸ§  About Me
+## About Me
 
 <div align="center">
 
 ```yaml
-name: Your Name
-role: Software Engineer Â· AI/ML Engineer Â· Full Stack Developer
-focus: Building performant, scalable, production-grade systems
-mindset: Product-driven engineering with deep technical craftsmanship
+name: Dharun K
+role: Software Engineer · AI/ML Engineer · Salesforce Developer
+focus: Building scalable applications with Python, Java, Salesforce, and AI technologies
+mindset: Continuous learning, problem-solving, and building real-world technical solutions
 ```
 
 </div>
@@ -46,13 +46,13 @@ I'm a software engineer with a strong foundation in **full-stack development** a
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![Go](https://skillicons.dev/icons?i=go)
+![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp).
 
 **Frontend**
 
@@ -62,31 +62,30 @@ I'm a software engineer with a strong foundation in **full-stack development** a
 
 ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Django](https://skillicons.dev/icons?i=django) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis)
 
-**Cloud, DevOps & Tooling**
+**Salesforce Development**
 
-![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![GCP](https://skillicons.dev/icons?i=gcp) ![Git](https://skillicons.dev/icons?i=git) ![GithubActions](https://skillicons.dev/icons?i=githubactions)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white)
+![Lightning Web Components](https://img.shields.io/badge/Lightning%20Web%20Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-032D60?style=for-the-badge&logo=salesforce&logoColor=white)
 
 </div>
 
 ---
-
-## ðŸ¤– AI / ML Expertise
-
-<div align="center">
+## 🚀 Technical Expertise
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| Machine Learning | â­â­â­â­â˜† | Supervised/unsupervised learning, scikit-learn, feature engineering |
-| Deep Learning | â­â­â­â­â˜† | PyTorch, TensorFlow, CNNs, RNNs, Transformers |
-| NLP | â­â­â­â­â˜† | Text classification, embeddings, LLM fine-tuning, RAG pipelines |
-| MLOps | â­â­â­â˜†â˜† | Model serving, MLflow, CI/CD for ML, monitoring |
-| Data Engineering | â­â­â­â­â˜† | ETL pipelines, Spark, Airflow, data warehousing |
+| Salesforce | ⭐⭐⭐⭐☆ | Apex, LWC, SOQL, Flows |
+| AI / ML | ⭐⭐⭐⭐☆ | Machine Learning, NLP |
+| Java | ⭐⭐⭐⭐☆ | Core Java, OOP |
+| Python | ⭐⭐⭐⭐☆ | NumPy, Pandas, scikit-learn |
 
 </div>
 
 ---
 
-## ðŸš€ Featured Projects
+## Featured Projects
 
 <details>
 <summary><b>ðŸ”¹ Project One â€” Intelligent Recommendation Engine</b></summary>
