@@ -11,7 +11,6 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharun-k-6a0234291/)
 [![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](dharundharshan003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dharun0)
