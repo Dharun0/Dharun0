@@ -40,10 +40,9 @@ mindset: Continuous learning, problem-solving, and building real-world technical
 
 </div>
 
-I'm a software engineer with a strong foundation in **full-stack development** and a specialized focus on **AI/ML systems** â€” from data pipelines to model deployment. I care about writing clean, maintainable code and designing architectures that scale gracefully under real-world load. My approach blends engineering rigor with product thinking: every system I build is designed around measurable user and business impact.
+I am a software engineer professional with a great interest in Salesforce Development, AI/ML, Java, and python. I create scalable Apps, develop intelligent solutions, and solve real-world problems using modern technologies. My key strengths include writing clean code, learning new concepts, and contributing to impactful products.
 
-**ðŸ”­ Open To:** Software Engineering roles Â· AI/ML Engineering roles Â· Full-Stack opportunities Â· Open-source collaboration Â· Freelance/contract work
-
+🔭 Open To : Salesforce Developer positions · AI/ML · Java & Python Development · Open-source · Freelance/Contract Jobs
 ---
 
 ## Tech Stack
@@ -85,139 +84,97 @@ I'm a software engineer with a strong foundation in **full-stack development** a
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <details>
-<summary><b>ðŸ”¹ Project One â€” Intelligent Recommendation Engine</b></summary>
-<br/>
+<summary><b>🔹 Sports360 – Sports Management Platform</b></summary>
 
-Real-time recommendation system serving personalized content using collaborative filtering and deep learning ranking models.
-
-| Attribute | Detail |
+| Attribute | Details |
 |---|---|
-| **Stack** | Python, FastAPI, PyTorch, Redis, PostgreSQL |
-| **Scale** | 500K+ daily active users |
-| **Performance** | <100ms p95 inference latency |
-| **Security** | OAuth2, rate limiting, input sanitization |
-| **Impact** | +23% engagement lift in A/B testing |
-| **Repository** | [github.com/yourusername/project-one](https://github.com/yourusername/project-one) |
-
-Architected end-to-end from data ingestion to model serving, with an emphasis on low-latency inference and graceful degradation under load. Includes a feature store, offline training pipeline, and real-time serving layer.
+| **Type** | Real-Time Project |
+| **Stack** | Salesforce, Apex, LWC, Flows |
+| **Features** | Player Management, Tournament Tracking, Automation |
+| **Impact** | Streamlined Sports Management |
 
 </details>
 
 <details>
-<summary><b>ðŸ”¹ Project Two â€” Distributed Task Orchestration Platform</b></summary>
-<br/>
+<summary><b>🔹 Java & Python Projects</b></summary>
 
-A horizontally scalable job scheduling system supporting retries, dead-letter queues, and priority-based execution.
-
-| Attribute | Detail |
+| Attribute | Details |
 |---|---|
-| **Stack** | Go, Kubernetes, RabbitMQ, PostgreSQL |
-| **Scale** | 1M+ jobs processed daily |
-| **Performance** | 99.95% uptime SLA |
-| **Security** | mTLS between services, RBAC |
-| **Impact** | Reduced infra costs by 30% |
-| **Repository** | [github.com/yourusername/project-two](https://github.com/yourusername/project-two) |
-
-Designed with fault tolerance as a first-class concern â€” includes automated failover, backpressure handling, and full observability via Prometheus/Grafana.
+| **Type** | Application Development |
+| **Stack** | Java, Python, SQL |
+| **Features** | OOP, Data Analysis, Automation |
+| **Impact** | Practical Problem Solving |
 
 </details>
-
-<details>
-<summary><b>ðŸ”¹ Project Three â€” Full-Stack SaaS Analytics Dashboard</b></summary>
-<br/>
-
-Multi-tenant analytics platform with real-time data visualization and custom report building.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Next.js, TypeScript, Node.js, MongoDB |
-| **Scale** | 200+ organizations onboarded |
-| **Performance** | Sub-second dashboard load times |
-| **Security** | JWT auth, tenant isolation, audit logging |
-| **Impact** | Cut manual reporting time by 80% |
-| **Repository** | [github.com/yourusername/project-three](https://github.com/yourusername/project-three) |
-
-Built a fully multi-tenant architecture from the ground up, with a focus on data isolation, extensibility, and a component library shared across the product.
-
 </details>
 
 ---
 
-## ðŸ’¼ Experience
+💼 Experience
 
-**Software Engineer** Â· Company Name
-`Jan 2024 â€” Present`
+Salesforce Developer · Sports360 Project
 
-Building and maintaining core backend services powering the company's flagship product.
+2026 — Present
 
-- Designed and shipped microservices handling millions of requests per day
-- Led migration from monolith to service-oriented architecture
-- Mentored junior engineers and established code review standards
+Developed a Salesforce based sports management platform with automation & analytics.
 
-`Python` `Go` `Kubernetes` `PostgreSQL` `AWS`
+Custom object development including fields and relationships
 
-<br/>
+Apex trigger and Lightning web component development
 
-**Software Engineering Intern** Â· Company Name
-`May 2023 â€” Aug 2023`
+Report and dashboard creation for sports management
 
-Contributed to the development of internal tooling and customer-facing features.
+Salesforce | Apex | LWC | SOQL | Flows
 
-- Built internal dashboards used by 50+ engineers
-- Improved test coverage from 60% to 90%
+AI/ML & Python Developer · Personal Projects
 
-`React` `Node.js` `Docker`
+2026 — Present
 
----
+Built Python applications and ML models for various purposes.
 
-## ðŸ† Achievements
+Developed data processing pipelines and ML models
+
+Python | Machine Learning | NumPy | Pandas
+
+--- I'm open to
+
+Salesforce developer positions | AI/ML opportunities | Java & Python Development | Open source contributions | Freelance/contract work
+
+## 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| ðŸ¥‡ Hackathon Winner | 1st place, University Hackathon 2024 |
-| ðŸ“œ Published Research | Co-authored paper at [Conference Name] |
-| â­ Open Source | 1000+ combined stars across repositories |
-| ðŸŽ“ Dean's List | Academic excellence, 4 consecutive semesters |
+| 🥇 Salesforce Certification | Salesforce Platform Developer I (PD1) |
+| 💻 Project Development | Sports360 – AI-Powered Sports Management Platform |
+| 🤖 Technical Skills | Salesforce, AI/ML, Java, Python |
+| 📚 Continuous Learning | Exploring AI/ML and Salesforce Development |
 
 </div>
 
 ---
 
-## ðŸ“œ Certifications
+## 📜 Certifications
 
-**AWS**
+**Salesforce**
 
-![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Salesforce Developer PD1](https://img.shields.io/badge/Salesforce-Developer%20PD1-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
-**Oracle**
+**Infosys**
 
-![Oracle Certified Professional](https://img.shields.io/badge/Oracle%20Certified-Java%20Professional-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Infosys-Generative%20AI%20Certification-007CC3?style=flat-square&logo=infosys&logoColor=white)
+
+**Google Cloud**
+
+![Cloud Foundation](https://img.shields.io/badge/Google%20Cloud-Cloud%20Foundation-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 **NPTEL**
 
 ![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
-
-**Cisco**
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
----
-
-## ðŸ’» Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourusername)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/yourusername)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Star-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/yourusername)
-[![CodeChef](https://img.shields.io/badge/CodeChef-4%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/yourusername)
-
-</div>
 
 ---
 
@@ -264,33 +221,32 @@ Contributed to the development of internal tooling and customer-facing features.
 
 ---
 
-## ðŸŽ¯ Current Focus
+## 🎯 Current Focus
 
 ```yaml
 learning:
-  - Advanced distributed systems design
-  - LLM fine-tuning and RAG architectures
+  - Salesforce Development and Apex
+  - AI/ML and Data Analysis
 building:
-  - An open-source developer productivity tool
-  - A personal AI research lab
+  - Sports360 Salesforce Project
+  - Python-based ML Projects
 exploring:
-  - Rust for systems programming
-  - Edge computing and WebAssembly
+  - Java and Python Development
+  - Cloud Computing and Generative AI
 open_to:
-  - Full-time Software/AI Engineering roles
-  - Collaborations and open-source contributions
+  - Salesforce Developer Opportunities
+  - AI/ML Internships and Collaborations
 ```
 
 ---
 
-## ðŸ“« Connect
+## Connect
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharundharshan003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharun-dharshan-6a0234291)
+[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dharun0)
 
 </div>
 
